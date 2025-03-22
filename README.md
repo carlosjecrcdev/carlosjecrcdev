@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a passionate backend developer currently working at Ventus Technology. With a specialization in .NET, I have extensive experience in developing APIs, desktop applications, and web applications. My expertise includes working with SQL Server, PostgreSQL, and Oracle databases.<br><br>I follow the Scrum methodology to ensure efficient and agile project management. Currently, I'm expanding my skill set by learning DevOps and Angular. I'm always eager to explore new technologies and improve my coding practices.<br><br>Feel free to connect with me or explore my projects to see what I've been working on!<br><br>
+👋 Hi there! I'm a passionate backend developer currently working at Ventus Technology. With a specialization in .NET, I have extensive experience in developing APIs, desktop applications, and web applications. My expertise includes working with SQL Server, PostgreSQL, and Oracle databases.<br><br>I follow the Scrum methodology to ensure efficient and agile project management. Currently, I'm expanding my skill set by learning DevOps and Angular. I'm always eager to explore new technologies and improve my coding practices.
 
 
 ## 🌐 Socials:
